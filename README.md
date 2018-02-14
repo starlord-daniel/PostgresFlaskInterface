@@ -1,5 +1,5 @@
 # Postgres Flask Web Interface
-A Flask website that can access your Postgres server.
+A Flask website that can access your Postgres server. Based on basic Flask architecture from my [Flask Rest Repo](https://github.com/starlord-daniel/flask-rest)
 
 # Deploy
 Click here to deploy this solution to your Azure account.
